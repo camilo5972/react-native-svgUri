@@ -11,7 +11,7 @@ order to contemplate all the cases
 Install library from `npm`
 
 ```bash
-npm install react-native-svgUri --save
+npm install react-native-svguri --save
 ```
 
 Link library react-native-svg

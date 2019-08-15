@@ -1,5 +1,5 @@
 {
-  "name": "react-native-svgUri",
+  "name": "react-native-svguri",
   "version": "1.0.0",
   "description": "Render an SVG Image from an URL",
   "main": "index.js",
